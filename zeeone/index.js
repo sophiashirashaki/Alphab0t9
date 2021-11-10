@@ -1,3 +1,3 @@
 /*
-Support channel Gawr gura
+Support channel ZEEONE OFC
 */
